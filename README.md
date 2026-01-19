@@ -9,3 +9,4 @@
 ## TASK 1 Create Github profile & readme files
 
 ## TASK 2 Github and readme labs
+## Terminal Basics
